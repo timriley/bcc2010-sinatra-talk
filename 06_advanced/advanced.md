@@ -40,15 +40,6 @@
 
 ![Rack logo](rack_logo.png)
 
-!SLIDE bullets
-
-# Rack Middleware
-
-* Catching and reporting exceptions
-* Caching content
-* Pre-populating timezone variables
-* And more
-
 !SLIDE small
 
 # Rack::Test

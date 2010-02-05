@@ -15,9 +15,10 @@
 * Prototypes
 * Fast-performing web apps or services
 
-!SLIDE bullets
+!SLIDE center
 
-# Thank You!
+## Thank You!
+### @timriley
+### tinyurl.com/bcc2010-sinatra
 
-* tinyurl.com/bcc2010-sinatra
-* canberraruby.com
+![Sinatra stamp](sinatra-stamp.jpg)
