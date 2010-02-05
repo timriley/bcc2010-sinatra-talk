@@ -6,7 +6,7 @@
 
 !SLIDE
 
-## For Fun, Fast & Flexible Web Apps
+## Fun, Fast & Flexible Web Apps in Ruby
 
 !SLIDE bullets
 
