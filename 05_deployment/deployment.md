@@ -9,6 +9,8 @@
 * Thin, Mongrel (+ reverse proxy)
 * Heroku
 
-!SLIDE
+!SLIDE center
 
-# Live deployment, oh my!
+## Live deployment, oh my!
+
+![Heroku logo](heroku.png)
