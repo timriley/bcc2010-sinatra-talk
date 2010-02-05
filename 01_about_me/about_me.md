@@ -16,9 +16,6 @@
 * **icelab**.com.au
 * github.com/**timriley**
 
-!SLIDE bullets
+!SLIDE
 
-# Meta
-
-* http://bcc2010-sinatra.heroku.com/
-* http://github.com/timriley/bcc2010-sinatra-talk
+# tinyurl.com/bcc2010-sinatra
