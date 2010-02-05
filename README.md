@@ -1,4 +1,13 @@
-heroku create bcc2010-sinatra-demo
-git push heroku master
-heroku db:push
-heroku open
+# An introduction to Sinatra at BarCamp Canberra 2010
+
+Presented by Tim Riley on 6th February, 2010.
+
+View the slides [on Heroku](http://bcc2010-sinatra.heroku.com/)
+
+Source code for the demo apps is available [on Github](http://github.com/timriley/bcc2010-sinatra-demos)
+
+## Other Links
+
+* [openmonkey.com](http://openmonkey.com)
+* [Icelab](http://icelab.com.au)
+* [Canberra Ruby Crew](http://canberraruby.com)
